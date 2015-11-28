@@ -1,0 +1,7 @@
+name: LuckyBlocks
+main: me.lucas.luckyblocks.Main
+version: 1.0
+commands:
+   lb:
+      description: Main command for the Lucky Blocks plugin
+      usage: /<command>
